@@ -283,7 +283,7 @@ nav .right-side {
 .wrap-4 a{display: block;text-align: center; font: 10px Roboto;letter-spacing: 1px;font-weight: 700; text-transform: uppercase;color: #111;}
 
 .wrap-5{margin-top: 1.5rem;}
-.wrap-5 .items {background-image: url("/assets/img/shoes-collection-background.png");padding: 2.5rem 3rem;
+.wrap-5 .items {background-image: url("../../assets/img/shoes-collection-background.png");padding: 2.5rem 3rem;
   background-position: center;}
 .wrap-5 h2{text-transform: uppercase;font: 36px Roboto;font-weight: 700;letter-spacing: -2px;color: #00c8c8;}
 .wrap-5 strong{color: #f7941d;text-transform: uppercase;font: 14px Roboto;font-weight: 900;letter-spacing: 1px;}
