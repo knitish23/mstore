@@ -309,7 +309,7 @@ nav .right-side {
 
 .wrap-7{padding-top: 2rem;}
 /* .wrap-7 .text{line-height: 48px;} */
-.wrap-7 .banner {background-image: url("/assets/img/save_up_to_bg.webp");width: 1170px;height: 200px;}
+.wrap-7 .banner {background-image: url("../../assets/img/save_up_to_bg.webp");width: 1170px;height: 200px;}
 .wrap-7 h2{ font: 60px Roboto;font-weight: 300;line-height: 48px; letter-spacing: 5px;
   text-transform: uppercase;color: #fff;text-align: center;}
 
@@ -443,7 +443,7 @@ font-family: "Roboto";
   font-family: "Roboto";
   padding:1rem 25px;
 }
-.wrap-11{background-image: url("/assets/img/Bg.webp");width: auto;height: 202px;position: relative;};
+.wrap-11{background-image: url("../../assets/img/Bg.webp");width: auto;height: 202px;position: relative;};
 .wrap-11 .join_our_email{line-height: 200px;}
 .wrap-11 h2{
   line-height: 90px;
